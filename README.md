@@ -26,4 +26,8 @@ sudo apt remove --auto-remove winehq-stable
 
 **🔔Also You Can Install Lutris Or Bottle Apps instead of Wine for running Windows Apps .** 
 
+![Screenshot (27)](https://user-images.githubusercontent.com/52446257/202989220-c3e2ae3a-a21e-4883-a139-683d1fd53713.png)
+
+
+
 **⁉️Now Question is how to Install SqlServer2019 on ubuntu for using that in WPf Or Winform Development 😊**
