@@ -16,7 +16,7 @@ if that link did not exist,come with us :
   - sudo apt update
   - sudo apt install --install-recommends winehq-stable
 
-**Also for Uninstall Wine : **
+**Also for Uninstall Wine :**
 
 sudo apt remove --auto-remove winehq-stable
 
