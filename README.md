@@ -20,13 +20,20 @@ https://ubuntuhandbook.org/index.php/2022/01/wine-stable-7-0-released/
   - sudo apt update
   - sudo apt install --install-recommends winehq-stable
 
+**Run .exe Files :**
+
+After installation , for running .exe Apps , Go to their directory , Open Terminal and write this command : 
+  - sudo wine ./Your_Program_Name.exe
+ 
+ ![Screenshot (27)](https://user-images.githubusercontent.com/52446257/202989220-c3e2ae3a-a21e-4883-a139-683d1fd53713.png)
+
 **🚫 Also for Uninstall Wine :**
 
 sudo apt remove --auto-remove winehq-stable
 
 **🔔Also You Can Install Lutris Or Bottle Apps instead of Wine for running Windows Apps .** 
 
-![Screenshot (27)](https://user-images.githubusercontent.com/52446257/202989220-c3e2ae3a-a21e-4883-a139-683d1fd53713.png)
+
 
 
 
